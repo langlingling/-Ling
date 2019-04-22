@@ -1,0 +1,29 @@
+.index,page{
+    width: 100%;
+    height: 100%;
+}
+.img{
+    width: 80rpx;
+    height: 80rpx;
+    position: fixed;
+    bottom: 400rpx;
+    left: 300rpx;
+}
+.btn{
+    width: 100%;
+    height: 90rpx;
+    background: black;
+    color: white;
+    text-align: center;
+    line-height: 90rpx;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+}
+.imgt{
+    width: 90rpx;
+    height: 90rpx;
+    position: fixed;
+    bottom: 200rpx;
+    right: 50rpx;
+}

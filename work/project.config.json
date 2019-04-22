@@ -1,0 +1,19 @@
+{
+	"miniprogramRoot": "dist/",
+	"projectname": "work",
+	"description": "",
+	"appid": "wx05782dbc33aa3a95",
+	"setting": {
+		"urlCheck": false,
+		"es6": false,
+		"postcss": false,
+		"minified": false,
+		"newFeature": true,
+		"autoAudits": false,
+		"checkInvalidKey": true
+	},
+	"compileType": "miniprogram",
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
+	"condition": {}
+}
